@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**billyr06/billyr06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Billy 👋🏽
+NJ-based Cloud Computing Enthusiast & Developer 🚀 | NJIT Comp Sci Grad 🎓 | Innovating in the cloud, one line of code at a time! ☁️💻
+* Check out my [website]() to learn more about me.
+* Stay updated with my journey on [Instgram](https://www.instagram.com/__bg3/) and [LinkedIn](www.linkedin.com/in/billy-ramirez1)
+## 🔥 Skill Set
+**Operating Systems**: ```Linux```  ```Windows```  ```macOS```  
+<br>
+**Languages**: ```Python```  ```PL/SQL```  ```JavaScript```  ```CFML```  
+<br>
+**Web Technologies**: ```HTML```  ```CSS```  ```XML```  ```JSON```  ```ColdFusion```  ```Lucee```  
+<br>
+**Databases**: ```MySQL``` ```Oracle``` ```MongoDB``` ```NoSQL```  
+<br>
+**Frameworks**: ```React``` ```RedwoodJS``` ```Node.js```  
+<br>
+**Libraries**: ```pandas``` ```NumPy```  
+<br>
+**Version Control**: ```Git``` ```GitHub```  
+## 🔍 Fun Facts
+* 🏂 My love for snowboarding is matched only by the thrill of the slopes.
+* 🥾 Hiking brings me closer to nature and fuels my adventurous spirit.
+* ✈️ Traveling is my way of collecting experiences and stories from around the globe.
+* 🎮 Dominating in Watzone is my kind of virtual adrenaline rush.
+* 🏈 My heart beats in sync with the highs and lows of the New York Giants.
+* ⚾ My all-star baseball days reflect my passion for teamwork and competition.
+* 🌪️ Living life on the edge, seeking thrills in every adventure.
+## 📬 Contact
+For a quick response, DM me on [Instagram](https://www.instagram.com/__bg3/) or [LinkedIn](www.linkedin.com/in/billy-ramirez1)
