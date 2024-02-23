@@ -1,6 +1,6 @@
 ### Hi, I'm Billy 👋🏽
 NJ-based Cloud Computing Enthusiast & Developer 🚀 | NJIT Comp Sci Grad 🎓 | Innovating in the cloud, one line of code at a time! ☁️
-* Check out my [website](https://www.billyramirez.netifly.app) to learn more about me.
+* Check out my [website](https://billyramirez.netlify.app/) to learn more about me.
 * Stay updated with my journey on [Instgram](https://www.instagram.com/__bg3/) and [LinkedIn](www.linkedin.com/in/billy-ramirez1)
 ## 🔥 Skill Set
 **Operating Systems**: ```Linux```  ```Windows```  ```macOS```  
